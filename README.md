@@ -57,7 +57,7 @@ Jupyter Notebook
 
 ## 📌 How to Use
 
-Open the Jupyter Notebook in your local environment.
+Open the Jupyter Notebook or Google Colab in your local environment.
 
 Load the dataset (NVDA (1).csv).
 
